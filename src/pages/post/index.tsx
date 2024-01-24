@@ -30,7 +30,7 @@ const PostIndex = ({ posts }: Props) => {
           <thead>
             <tr>
               <th>IDdas</th>
-              <th>Name</th>
+              <th>Namfasfde</th>
               <th>Height</th>
               <th>Weight</th>
             </tr>
